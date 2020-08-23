@@ -1,13 +1,13 @@
-## Blog for LyphMusic
+# Blog for LyphMusic
 
 A blog for Micheal Solano of LyphMusic. Concept project for practice.
 
-# Tech utilized
+## Tech utilized
 
 Node.js/Express/MongoDB.
 
 Bcrypt for authentication.
 
-# Future ideas
+## Future ideas
 
 Rewrite in Go, Add images through Cloudinary, Connect to SoundCloud api.
